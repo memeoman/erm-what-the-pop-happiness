@@ -1,11 +1,11 @@
 @font-face {
     font-family: Pop Happiness;
     font-weight: normal;
-    src: url(PopHappiness.ttf);
+    src: url(./PopHappiness.ttf);
   }
   
   @font-face {
     font-family: Pop Happiness;
     font-weight: bold;
-    src: url(PopHappiness.ttf);
+    src: url(./PopHappiness.ttf);
   }
